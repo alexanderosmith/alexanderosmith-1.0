@@ -23,7 +23,7 @@ Proin suscipit mauris ut diam fermentum varius. Nam rhoncus sem eu purus vestibu
 2. Beef
 3. Tofurkey
 
-![word](/assets/images/twoscreen.jpg)
+![word](images/halve.png =250x)
 
 [^1]: This a thing.
 [^2]: hi
