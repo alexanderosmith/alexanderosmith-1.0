@@ -1,7 +1,16 @@
-{% include head.html %}
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
 
-{% include nav-burger.html %}
+  <body>
+    {% include header.html %}
 
-  {{content}}
+    <div class="content-wrapper">
+      <div class="content-wrapper__inner">
+        {{ content }}
+      </div>
 
-{% include footer.html %}
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
