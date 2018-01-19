@@ -11,7 +11,7 @@ Presently, Alexander is working with Dr. Daniel E. Acuna on optimizing document 
 
 # Teaching
 
-In the past, Alexander has been a teaching assistant, tutor, and Supplemental Instructor for various economics including Principles of Microeconomics and Macroeconomics, International Economics, Intermediate Microeconomics, and Macroeconomic Policy.
+In the past, Alexander has been a teaching assistant, tutor, and Supplemental Instructor for various economics courses including Principles of Microeconomics and Macroeconomics, International Economics, Intermediate Microeconomics, and Macroeconomic Policy.
 
 # Personal Life
 
