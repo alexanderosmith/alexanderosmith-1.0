@@ -7,4 +7,4 @@ Alexander is a PhD student of Information Science & Technology at Syracuse Unive
 
 Alexander spends most of his time reading various fields of philosophy, social science theory, and virtual culture. Additionally, he is developing skills in Python and R for data science, network methods, and data visualization.
 
-More about Alexander's personal life: [About](_posts/2018-01-18-AboutAlexander.md)
+More about Alexander: [About](_posts/2018-01-18-AboutAlexander.md)
