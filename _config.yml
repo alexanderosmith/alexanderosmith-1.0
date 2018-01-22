@@ -11,10 +11,6 @@ background:
   post-list: images/theplayground2.jpg                # this image will be shown on post list page
   default-post: images/theplayground2.jpg             # this image will be shown when post's front matter doesn't specify any image
 
-# Comments
-disqus_shortname:   aos11409
-
-
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
