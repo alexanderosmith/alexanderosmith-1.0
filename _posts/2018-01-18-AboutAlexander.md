@@ -3,7 +3,6 @@ layout: post
 title:  "About Alexander"
 date:   2018-01-18 05:00:00 +0000
 image: /assets/images/twoscreen.jpg
-comments: true
 ---
 
 # Current Research
