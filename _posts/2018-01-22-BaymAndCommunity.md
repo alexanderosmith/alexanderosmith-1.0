@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Baym and 1990s CMC Concerns on Online Community"
-date:   2018-01-18 05:00:00 +0000
+date:   2018-01-20 05:00:00 +0000
 image: /assets/images/twoscreen.jpg
 #comments: true
 ---
