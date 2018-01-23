@@ -30,12 +30,11 @@ In the midst of the above rambling about considerations of the ethical dilemma o
 
 # References
 
-[^1] Baym, Nancy K. “The Emergence of On-Line Community.” In Cybersociety 2.0: Revisiting Computer-Mediated Community and Technology, 35–68. SAGE Publications, 1998.
-[^6] Crane, Diana. Invisible Colleges; Diffusion of Knowledge in Scientific Communities. Chicago: University of Chicago Press, 1972.
-[^2] Firth, J. R. “A Synopsis of Linguistic Theory, 1930-1955.” Studies in Linguistic Analysis, 1957. http://ci.nii.ac.jp/naid/10020680394/.
-[^4] Lazer, David, Alex (Sandy) Pentland, Lada Adamic, Sinan Aral, Albert Laszlo Barabasi, Devon Brewer, Nicholas Christakis, et al. “Life in the Network: The Coming Age of Computational Social Science.” Science (New York, N.Y.) 323, no. 5915 (February 6, 2009): 721–23. https://doi.org/10.1126/science.1167742.
-[^3]Tiebout, Charles M. “A Pure Theory of Local Expenditures.” Journal of Political Economy 64, no. 5 (October 1, 1956): 416–24. https://doi.org/10.1086/257839.
-[^2]Tiebout, Charles M. “A Pure Theory of Local Expenditures.” Journal of Political Economy 64, no. 5 (October 1, 1956): 416–24. https://doi.org/10.1086/257839.
-[^5] Pentland, Alex. Social Physics: How Good Ideas Spread-the Lessons from a New Science. Penguin, 2014.
+[^1]: Baym, Nancy K. “The Emergence of On-Line Community.” In Cybersociety 2.0: Revisiting Computer-Mediated Community and Technology, 35–68. SAGE Publications, 1998.
+[^6]: Crane, Diana. Invisible Colleges; Diffusion of Knowledge in Scientific Communities. Chicago: University of Chicago Press, 1972.
+[^2]: Firth, J. R. “A Synopsis of Linguistic Theory, 1930-1955.” Studies in Linguistic Analysis, 1957.
+[^4]: Lazer, David, Alex (Sandy) Pentland, Lada Adamic, Sinan Aral, Albert Laszlo Barabasi, Devon Brewer, Nicholas Christakis, et al. “Life in the Network: The Coming Age of Computational Social Science.” Science (New York, N.Y.) 323, no. 5915 (February 6, 2009): 721–23.
+[^3]: Tiebout, Charles M. “A Pure Theory of Local Expenditures.” Journal of Political Economy 64, no. 5 (October 1, 1956): 416–24.
+[^3]: Tiebout, Charles M. “A Pure Theory of Local Expenditures.” Journal of Political Economy 64, no. 5 (October 1, 1956): 416–24.
+[^5]: Pentland, Alex. Social Physics: How Good Ideas Spread-the Lessons from a New Science. Penguin, 2014.
 Phillips, Whitney. This Is Why We Can’t Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture. Reprint edition. The MIT Press, 2016.
-[^3] Tiebout, Charles M. “A Pure Theory of Local Expenditures.” Journal of Political Economy 64, no. 5 (October 1, 1956): 416–24. https://doi.org/10.1086/257839.
