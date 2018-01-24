@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Michael Standen - Curriculum Vitae"
+title: "Template - Curriculum Vitae"
 description: "Software Engineer for fun and profit"
 permalink: /cv.html
 image: "images/sai-kiran-anagani-61187.jpg"
@@ -54,4 +54,3 @@ block_share_bottom: true
 {{ pageContent | markdownify }}
 
 </div>
-
