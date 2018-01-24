@@ -4,7 +4,7 @@ title:  "About Alexander"
 date:   2018-01-18 05:00:00 +0000
 image: "images/theplayground2.jpg"
 imageattribution: "Alexander O. Smith"
-imageattributionlink: aos11409.github.io
+imageattributionlink: https://aos11409.github.io/AboutAlexander/
 tags:
   - About A.O.S
 ---
