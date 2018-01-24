@@ -6,13 +6,6 @@ $(function() {
   $(".content").fitVids();
 });
 
-// Projects Menu
-$('.projects-menu-icon').click(function() {
-  $('html').toggleClass('no-scroll');
-  $(this).toggleClass('active');
-  $('.overlay').toggleClass('show');
-});
-  
 // All others
 $(document).ready(function() {
 	$('.image-popup').magnificPopup({
@@ -31,4 +24,21 @@ $(document).ready(function() {
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
+
+  // Print
+  $(".print-content-button").click(function() {
+    var printContents = $(".print-content");
+    if (printContents.length == 0){
+      printContents = $(".block-right .content");
+    }
+    printContents = printContents.html();
+    var originalContents = $("body").html();
+
+    $("body").html(printContents);
+
+    window.print();
+
+    $("body").html(originalContents);
+  });
 });
+

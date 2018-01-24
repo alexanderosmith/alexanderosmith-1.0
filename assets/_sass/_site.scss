@@ -46,238 +46,22 @@ canvas {
   z-index: 0;
 }
 
-.projects-menu-icon {
+ul.top-links {
   position: absolute;
   top: 30px;
-  right: 30px;
-  width: 15px;
-  height: 15px;
-  border: 2px solid $gray;
-  border-radius: 3px;
-  cursor: pointer;
-  z-index: 3;
-  &:before {
-    content: '';
-    position: absolute;
-    left: -19px;
-    top: -2px;
-    width: 15px;
-    height: 15px;
-    border: 2px solid $gray;
-    border-radius: 3px;
-  }
-  span {
-    position: absolute;
-    top: 15px;
-    right: -2px;
-    width: 15px;
-    height: 15px;
-    border: 2px solid $gray;
-    border-radius: 3px;
-    &:before {
-      content: '';
-      position: absolute;
-      left: -19px;
-      top: -2px;
-      width: 15px;
-      height: 15px;
-      border: 2px solid $gray;
-      border-radius: 3px;
-    }
-  }
-  &:hover {
-    border-color: $green;
-    &:before {
-      border-color: $green;
-    }
-    span {
-      border-color: $green;
-      &:before {
-        border-color: $green;
-      }
-    }
-  }
-  &.active {
-    position: fixed;
-  }
-}
-
-.posts-menu-icon {
-  position: absolute;
-  top: 30px;
-  right: 90px;
-  width: 20px;
-  height: 25px;
-  border: 2px solid $gray;
-  background: $white;
-  &:before {
-    content: '';
-    width: 20px;
-    height: 25px;
-    position: absolute;
-    right: 2px;
-    border: 2px solid $gray;
-    top: 2px;
-    background: $white;
-  }
-  &:after {
-    content: '';
-    width: 20px;
-    height: 25px;
-    border: 2px solid $gray;
-    position: absolute;
-    right: 6px;
-    top: 6px;
-    background: $white;
-  }
-  &:hover {
-    border-color: $green;
-    &:before,
-    &:after {
-      border-color: $green;
-    }
-  }
-}
-
-.posts-link,
-.projects-link {
-  position: absolute;
-  top: 73px;
-  font-size: 12px;
-  color: darken($white, 40);
-}
-
-.posts-link {
-  right: 90px;
-}
-
-.projects-link {
-  right: 20px;
-}
-
-.overlay {
-  position: fixed;
-  background: $overlay-color;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 2;
-  display: none;
-  overflow-y: auto;
-  &.show {
-    display: block;
-  }
-}
-
-.projects-menu {
-  font-size: 0;
-  height: 100%;
-  > li {
+  right: 40px;
+  list-style: none;
+  text-align: center;
+  li {
     display: inline-block;
-    width: calc(100%/3);
-    background: $overlay-color;
-    height: 50%;
-    border: 5px solid $overlay-color;
-    position: relative;
-    vertical-align: top;
-    float: left;
-    background-size: cover !important;
-    &:nth-child(8n+1),
-    &:nth-child(8n+2) {
-      width: 50%;
-      height: 70%;
-    }
-    &:nth-child(8n+6) {
-      width: calc(100%/3 + 100%/3);
-      height: 100%;
-    }
+    margin-left: 15px;
     a {
-      border: 30px solid transparent;
-      background: rgba(0, 0, 0, 0.3);
-      position: absolute;
-      top: 0;
-      right: 0;
-      bottom: 0;
-      left: 0;
-      -webkit-transition: background 0.2s linear;
-      -moz-transition: background 0.2s linear;
-      -ms-transition: background 0.2s linear;
-      -o-transition: background 0.2s linear;
-      transition: background 0.2s linear;
-      &:hover:after,
-      &:hover:before {
-        -webkit-transform: scale(1);
-        -moz-transform: scale(1);
-        -ms-transform: scale(1);
-        -o-transform: scale(1);
-        transform: scale(1);
-        -webkit-transition: all 1s;
-        -moz-transition: all 1s;
-        -ms-transition: all 1s;
-        -o-transition: all 1s;
-        transition: all 1s;
-      }
-      span {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        -webkit-transform: translate(-50%, -50%);
-        -moz-transform: translate(-50%, -50%);
-        -ms-transform: translate(-50%, -50%);
-        -o-transform: translate(-50%, -50%);
-        transform: translate(-50%, -50%);
-        font-size: 30px;
-        color: $white;
-        padding-right: 10px;
-        white-space: nowrap;
-        text-align: center;
-        strong {
-          color: rgba($white, 0.7);
-        }
-        em {
-          font-size: 20px;
-          line-height: 33px;
-          color: darken($white, 40%);
-        }
-      }
-      &:after {
-        content: "";
-        position: absolute;
-        top: 0;
-        border-top: 1px solid rgba($white, 0.3);
-        border-bottom: 1px solid rgba($white, 0.3);
-        display: block;
-        height: 100%;
-        width: 100%;
-        -webkit-transform: scale(0, 1);
-        -moz-transform: scale(0, 1);
-        -ms-transform: scale(0, 1);
-        -o-transform: scale(0, 1);
-        transform: scale(0, 1);
-        -webkit-transition: all 0.5s;
-        -moz-transition: all 0.5s;
-        -ms-transition: all 0.5s;
-        -o-transition: all 0.5s;
-        transition: all 0.5s;
-      }
-      &:before {
-        content: "";
-        border-right: 1px solid rgba($white, 0.3);
-        border-left: 1px solid rgba($white, 0.3);
-        display: block;
-        height: 100%;
-        -webkit-transform: scale(1, 0);
-        -moz-transform: scale(1, 0);
-        -ms-transform: scale(1, 0);
-        -o-transform: scale(1, 0);
-        transform: scale(1, 0);
-        -webkit-transition: all 0.5s;
-        -moz-transition: all 0.5s;
-        -ms-transition: all 0.5s;
-        -o-transition: all 0.5s;
-        transition: all 0.5s;
-      }
+      font-size: 16px;
+      color: darken($white, 40);
+    }
+    i {
+      display: block;
+      font-size: 200%;
     }
   }
 }
@@ -477,6 +261,22 @@ canvas {
   }
 }
 
+.section-content {
+  font-size: 50px;
+  color: rgba($white, 0.6);
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  em {
+    font-style: italic;
+  }
+  span {
+    font-size: 10px;
+  }
+  a {
+    color: darken($white, 38%);
+  }
+}
+
 .posts-list {
   margin: 50px 0;
   > li {
@@ -595,6 +395,12 @@ canvas {
     bottom: auto;
     font-size: 80px;
   }
+  .section-content {
+    position: relative;
+    left: auto;
+    bottom: auto;
+    font-size: 40px;
+  }
   .tags > li {
     background: none;
     border: 1px solid rgba($white, 0.4);
@@ -706,6 +512,9 @@ canvas {
   .post-title-section .section-title {
     font-size: 45px;
   }
+  .post-title-section .section-content {
+    font-size: 20px;
+  }
 }
 
 @media screen and (max-width: 960px) {
@@ -719,11 +528,6 @@ canvas {
   }
   .block-right {
     overflow-y: inherit;
-  }
-  .projects-menu li {
-    width: 50% !important;
-    height: 50% !important;
-    float: left;
   }
   .share-buttons span {
     display: none;
@@ -772,13 +576,15 @@ canvas {
     .section-title {
       font-size: 40px;
     }
+    .section-content {
+      font-size: 20px;
+    }
   }
   .section-title {
     font-size: 80px;
   }
-  .projects-menu li {
-    width: 100% !important;
-    height: 50% !important;
+  .section-content {
+    font-size: 40px;
   }
   .content {
     padding: 20px

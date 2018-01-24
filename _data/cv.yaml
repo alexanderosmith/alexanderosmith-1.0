@@ -1,0 +1,89 @@
+details:
+  name: "Michael Standen"
+  email: "michael@standen.link"
+  phone: "0212530730"
+  location: "Auckland, New Zealand"
+  blurb: |
+    Software Engineer for fun and profit.
+
+sections:
+  - title: "Work Experience"
+    content:
+    - title: "Datacom Systems Ltd"
+      blurb: "Software Developer"
+      date: "2012 - Present"
+      content:
+        - "Web development for multiple projects of national audiences using a plethora of languages, tools and frameworks"
+        - "Design and implemention of API enabling loan applications at high profile New Zealand finance company"
+        - "Implementation of API for reporting and ticket printing across over 250 supermarkets saving more than 2000 person hours a week"
+        - "Development and integration of AWS Lex AI chat bot to increase customer engagement"
+        - "Detailed estimations based on high level functional requirements for projects spanning over 6 months"
+        - "Analysis and implementation of various tools and frameworks for nation wide projects, both existing and green fields"
+        - "Deep analysis of Java memory utilisation in response to priority level 1 outages"
+        - "Experiences in both strict gated corporate waterfall and agile scrum development teams"
+    - title: "Personal Development"
+      blurb: "Full Stack Developer / Architect / Everything in between"
+      content:
+        - "Architecture and development online temporary file sharing service"
+        - "Development and maintenance of a popular FOSS Android Slideshow application"
+        - "Design and implemenation of Cat Facts mailing list"
+        - "Numerous scripts for niche use cases frequently used by a small audience"
+  - title: "Skills"
+    content:
+    - title: "Frontend"
+      content:
+      - "**Pure web technologies:** HTML, CSS, Javascript"
+      - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
+    - title: "Backend"
+      content:
+      - "**Java:** 6+ years corporate and educational experience. Java is my bread and butter"
+      - "**MySQL:** 4+ years corporate experience. Database design and administration"
+      - "**NodeJS / Coffeescript:** 2+ years corporate and private experience. I thoroughly enjoy Javascript frameworks"
+      - "**Python:** 2+ years corporate and private experience. Python is my go to scripting language for rapid development"
+      - "**Kotlin:** 1 year private experience. Kotlin is incredibly fun, and a natural successor to Java"
+      - "**PHP:** 1 year corporate experience. Most of this was hacking bad code"
+    - title: "Frameworks"
+      content:
+        - "**Amazon Web Services:** Certified Developer and Solutions Architect to the Associate level"
+        - "**Spring MVC:** Web portal for high profile New Zealand finance company"
+        - "**Express:** Backend and API framework for national supermarket brand"
+        - "**Django:** Backend system for advertisement service visible on leading news website"
+        - "**Jekyll:** Personal website"
+        - "**Wordpress, WooCommerce, Symphony:** Hacking temporary and legacy systems"
+    - title: "Systems"
+      content:
+        - "**Linux**; Ubuntu, Lubuntu, Debian, Fedora. Preferred development environment"
+        - "**Microsoft Windows:** Personal computing and professional development"
+        - "**Android:** Personal development"
+    - title: "Professional"
+      content:
+        - "Punctual"
+        - "Succinct"
+        - "Collaborator"
+  - title: "Qualifications and Education"
+    content:
+    - title: "AWS Certified Solutions Architect"
+      content:
+        - "Certified to the Associate level"
+      date: "2017"
+    - title: "AWS Certified Developer"
+      content:
+        - "Certified to the Associate level"
+      date: "2016"
+    - title: "University of Auckland"
+      blurb: "Bachelor of Software Engineering"
+      date: "2009 - 2013"
+      content:
+        - "Graduated with Honours"
+        - "Ported a Java based functional programming language, SystemJ, to Lego NXT robots"
+        - "Artificial intellegence projects utlising swarm robotics and MLP networks"
+        - "Full academic transcript available on request"
+  - title: "Interest and Hobbies"
+    content:
+    - content:
+       - "Virtual Reality"
+       - "Testing and tinkering with new techologies"
+       - "Mountain biking and running"
+  - title: "References"
+    request: true
+

@@ -3,6 +3,7 @@ title: Alexander O. Smith
 description: PhD Student, iSchool, Syracuse University
 url: https://aos11409.github.io
 logo: aos.png                                         # Site logo
+disqus_shortname: aos11409
 locale: en_US
 
 # Left Block Images
@@ -61,5 +62,17 @@ gems:
   - jekyll-gist
 
 # Exclude list
-include: [_pages]
-exclude: [README.md, Gemfile, Gemfile.lock, _site, src, vendor, CNAME, LICENSE, Rakefile, .sass-cache, .DS_Store]
+include:
+  - _pages
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _site
+  - src
+  - vendor
+  - LICENSE
+  - THEME_LICENSE
+  - Rakefile
+  - .sass-cache
+  - .DS_Store

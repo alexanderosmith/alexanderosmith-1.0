@@ -44,6 +44,10 @@ a:visited {
   color: $overlay-color
 }
 
+em {
+  font-style: italic;
+}
+
 table {
   border-collapse: collapse;
   border-spacing: 0
@@ -105,6 +109,8 @@ h5,
 h6 {
   margin: 2rem 0 0.5rem;
   font-family: $base-font;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
 }
 
 h1 {

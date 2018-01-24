@@ -1,8 +1,14 @@
 ---
 layout: post
 title:  "First Trial"
+excerpt: "Practice formatting."
 date:   2018-01-18 06:00:00 +0000
-image: /assets/images/twoscreen.jpg
+image: "images/theplayground2.jpg"
+imageattribution: "Alexander O. Smith"
+imageattributionlink: aos11409.github.io
+tags:
+  - jekyll
+  - not important
 ---
 
 # Crappy First Page
