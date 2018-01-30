@@ -46,7 +46,7 @@ Still, the point is not to say that we should actively be on a path which does n
 Build and use tools mindfully.
 
 ## References
-[1^]: Zande, Johan van der. “Statistik and History in the German Enlightenment.” Journal of the History of Ideas 71, no. 3 (July 21, 2010): 411–32.
+[^1]: Zande, Johan van der. “Statistik and History in the German Enlightenment.” Journal of the History of Ideas 71, no. 3 (July 21, 2010): 411–32.
 
 [^2]: Rogers, Richard. Digital Methods. Cambridge, Massachusetts: The MIT Press, 2013.
 
