@@ -6,7 +6,7 @@ image: "images/theplayground2.jpg"
 imageattribution: "Alexander O. Smith"
 imageattributionlink: https://aos11409.github.io/AboutAlexander/
 tags:
-  - blogs
+  - Blog
   - Social Media Methods
 ---
 
