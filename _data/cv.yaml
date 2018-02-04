@@ -1,89 +1,30 @@
 details:
-  name: "Michael Standen"
-  email: "michael@standen.link"
-  phone: "0212530730"
-  location: "Auckland, New Zealand"
-  blurb: |
-    Software Engineer for fun and profit.
+  name: "Alexander O. Smith"
+  email: "aosmith@syr.edu"
+  location: "343 Hinds Hall, Syracuse, NY 13210"
 
 sections:
-  - title: "Work Experience"
+  - title: "EDUCATION"
     content:
-    - title: "Datacom Systems Ltd"
-      blurb: "Software Developer"
-      date: "2012 - Present"
-      content:
-        - "Web development for multiple projects of national audiences using a plethora of languages, tools and frameworks"
-        - "Design and implemention of API enabling loan applications at high profile New Zealand finance company"
-        - "Implementation of API for reporting and ticket printing across over 250 supermarkets saving more than 2000 person hours a week"
-        - "Development and integration of AWS Lex AI chat bot to increase customer engagement"
-        - "Detailed estimations based on high level functional requirements for projects spanning over 6 months"
-        - "Analysis and implementation of various tools and frameworks for nation wide projects, both existing and green fields"
-        - "Deep analysis of Java memory utilisation in response to priority level 1 outages"
-        - "Experiences in both strict gated corporate waterfall and agile scrum development teams"
-    - title: "Personal Development"
-      blurb: "Full Stack Developer / Architect / Everything in between"
-      content:
-        - "Architecture and development online temporary file sharing service"
-        - "Development and maintenance of a popular FOSS Android Slideshow application"
-        - "Design and implemenation of Cat Facts mailing list"
-        - "Numerous scripts for niche use cases frequently used by a small audience"
-  - title: "Skills"
+    - title: "Present Ph.D. Information Science & Technology, iSchool, Syracuse University"
+    - title: "2017		M.A. Economics, Andrew Young School of Policy Studies, Georgia State University"
+    - title: "2013		B.S. Economics, Richards College of Business, University of West Georgia"
+  - title: "EMPLOYMENT"
     content:
-    - title: "Frontend"
-      content:
-      - "**Pure web technologies:** HTML, CSS, Javascript"
-      - "**Pre-processed languages:** Markdown, Sass, Coffeescript"
-    - title: "Backend"
-      content:
-      - "**Java:** 6+ years corporate and educational experience. Java is my bread and butter"
-      - "**MySQL:** 4+ years corporate experience. Database design and administration"
-      - "**NodeJS / Coffeescript:** 2+ years corporate and private experience. I thoroughly enjoy Javascript frameworks"
-      - "**Python:** 2+ years corporate and private experience. Python is my go to scripting language for rapid development"
-      - "**Kotlin:** 1 year private experience. Kotlin is incredibly fun, and a natural successor to Java"
-      - "**PHP:** 1 year corporate experience. Most of this was hacking bad code"
-    - title: "Frameworks"
-      content:
-        - "**Amazon Web Services:** Certified Developer and Solutions Architect to the Associate level"
-        - "**Spring MVC:** Web portal for high profile New Zealand finance company"
-        - "**Express:** Backend and API framework for national supermarket brand"
-        - "**Django:** Backend system for advertisement service visible on leading news website"
-        - "**Jekyll:** Personal website"
-        - "**Wordpress, WooCommerce, Symphony:** Hacking temporary and legacy systems"
-    - title: "Systems"
-      content:
-        - "**Linux**; Ubuntu, Lubuntu, Debian, Fedora. Preferred development environment"
-        - "**Microsoft Windows:** Personal computing and professional development"
-        - "**Android:** Personal development"
-    - title: "Professional"
-      content:
-        - "Punctual"
-        - "Succinct"
-        - "Collaborator"
-  - title: "Qualifications and Education"
+    - title: "8/2017 – Present:	Research Assistant, iSchool, Syracuse University, Syracuse, NY"
+    - title: "8/2014 – 5/2017:	Supplemental Instructor, Microeconomics, Andrew Young School, Atlanta, GA"
+    - title: "8/2013 – 12/2014:	Graduate Assistant & Teaching Assistant, Andrew Young School, Atlanta, GA"
+    - title: "8/2013 – 5/2015:	Undergraduate Economics Tutor, Andrew Young School, Atlanta, GA"
+    - title: "8/2012 – 5/2013:	Undergraduate Research Assistant, Economics, Richards College, Carrollton, GA"
+  - title: "SCHOLARSHIP"
     content:
-    - title: "AWS Certified Solutions Architect"
+    - title: "Posters & Presentations:"
+      content:      content:
+        - "Certified to the Associate level
+        - "Smith, Alexander O. “Synonyms, Antonyms, and Connections Between,” (2017) All iSchool Poster Session, Syracuse University, 1 December, Syracuse, NY."
+        - "Smith, Alexander O. “Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,” (2013) RCOB Big Night 13 March, Carrollton, GA."
+        - "Smith, Alexander O. “Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,” (2013) Academy of Economics and Finance Undergraduate Research Conference, 14-16 February, Mobile, AL.:
+      date: 2016"
+    - title: "Working Papers:"
       content:
-        - "Certified to the Associate level"
-      date: "2017"
-    - title: "AWS Certified Developer"
-      content:
-        - "Certified to the Associate level"
-      date: "2016"
-    - title: "University of Auckland"
-      blurb: "Bachelor of Software Engineering"
-      date: "2009 - 2013"
-      content:
-        - "Graduated with Honours"
-        - "Ported a Java based functional programming language, SystemJ, to Lego NXT robots"
-        - "Artificial intellegence projects utlising swarm robotics and MLP networks"
-        - "Full academic transcript available on request"
-  - title: "Interest and Hobbies"
-    content:
-    - content:
-       - "Virtual Reality"
-       - "Testing and tinkering with new techologies"
-       - "Mountain biking and running"
-  - title: "References"
-    request: true
-
+        - "Bird, Bruce M., Sinkey, Michael J., Smith, Alexander O., Smith, William J. "Should Benford’s Law Be Used to Examine Financial Returns? Evidence from CRSP.""
