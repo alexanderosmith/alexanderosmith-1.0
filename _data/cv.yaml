@@ -1,38 +1,39 @@
 details:
   name: "Alexander O. Smith"
   email: "aosmith@syr.edu"
-  phone: "(315) 443-2911"
+  phone: "+13154432911"
   location: "343 Hinds Hall, Syracuse, NY 13210"
   blurb: |
-          Economist & Information Scientist
+    Economist & Information Scientist.
 
 sections:
   - title: "EDUCATION"
     content:
-    - title: "Present Ph.D. Information Science & Technology, iSchool, Syracuse University"
-    - title: "2017		M.A. Economics, Andrew Young School of Policy Studies, Georgia State University"
-    - title: "2013		B.S. Economics, Richards College of Business, University of West Georgia"
+    - title: "iSchool, Syracuse University"
+      blurb: "Ph.D. Student Information Science & Technology, "
+      date: "2017-"
+    - title: "Andrew Young School of Policy Studies, Georgia State University"
+      blurb: M.A. Economics
+      date: "2017"
+    - title: "Richards College of Business, University of West Georgia"
+      blurb: "B.S. Economics"
+      date: "2013"
   - title: "EMPLOYMENT"
     content:
     - title: "8/2017 – Present:	Research Assistant, iSchool, Syracuse University, Syracuse, NY"
-    content:
     - title: "8/2014 – 5/2017:	Supplemental Instructor, Microeconomics, Andrew Young School, Atlanta, GA"
-    content:
     - title: "8/2013 – 12/2014:	Graduate Assistant & Teaching Assistant, Andrew Young School, Atlanta, GA"
-    content:
     - title: "8/2013 – 5/2015:	Undergraduate Economics Tutor, Andrew Young School, Atlanta, GA"
-    content:
     - title: "8/2012 – 5/2013:	Undergraduate Research Assistant, Economics, Richards College, Carrollton, GA"
   - title: "SCHOLARSHIP"
     content:
-    - title: "Posters & Presentations:"
-      content:
-        - "Smith, Alexander O. “Synonyms, Antonyms, and Connections Between,” (2017) All iSchool Poster Session, Syracuse University, 1 December, Syracuse, NY."
-        - "Smith, Alexander O. “Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,” (2013) RCOB Big Night 13 March, Carrollton, GA."
-        - "Smith, Alexander O. “Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,” (2013) Academy of Economics and Finance Undergraduate Research Conference, 14-16 February, Mobile, AL.:
-      date: 2016"
-    - title: "Working Papers:"
-      content:
-        - "Bird, Bruce M., Sinkey, Michael J., Smith, Alexander O., Smith, William J. "Should Benford’s Law Be Used to Examine Financial Returns? Evidence from CRSP.""
-    - title: "References"
-      request: true
+    - title: "Posters and Presentations"
+    content:
+    - title: "Alexander O. Smith, \"Synonyms, Antonyms, and Connections Between,\" (2017) All iSchool Poster Session, Syracuse University, 1 December, Syracuse, NY."
+    - title: "Alexander O. Smith, \"Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,\" (2013) RCOB Big Night 13 March, Carrollton, GA."
+    - title: "Alexander O. Smith, \"Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,\" (2013) Academy of Economics and Finance Undergraduate Research Conference, 14-16 February, Mobile, AL.: date: 2016"
+    - title: "Work in Progress"
+    content:
+    - title: "Bird, Bruce M., Sinkey, Michael J., Smith, Alexander O., Smith, William J. \"Should Benford’s Law Be Used to Examine Financial Returns? Evidence from CRSP. \""
+  - title: "References"
+    request: true
