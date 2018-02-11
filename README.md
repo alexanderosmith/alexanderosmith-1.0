@@ -1,4 +1,4 @@
-# [Alexander O. Smith](aos11409.github.io)
+# [Alexander O. Smith](https://aos11409.github.io)
 ## Halve by Taylan Tatlı  [![Donate](https://img.shields.io/badge/paypal-donate-blue.svg)](https://www.paypal.me/taylantatli/0usd)  
 Support Taylan Tatlı and this awesome theme.
 
