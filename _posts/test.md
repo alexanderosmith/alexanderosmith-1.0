@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "TEST"
-description: "TESTING"
-permalink: /test.html
+title:  "TESTING"
+excerpt: "test."
+date:   2018-02-09 06:00:00 +0000
 image: "images/theplayground2.jpg"
 imageattribution: "Alexander O. Smith"
 imageattributionlink: https://aos11409.github.io/AboutAlexander/
-block_share_bottom: true
+tags:
+  - jekyll
+  - not important
 ---
 
 # Lorem Ipsum
