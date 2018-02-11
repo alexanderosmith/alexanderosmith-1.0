@@ -3,9 +3,9 @@ layout: page
 title: "Alexander O. Smith - Curriculum Vitae"
 description: "Economist and Information Scientist"
 permalink: /cv.html
-image: "images/sai-kiran-anagani-61187.jpg"
-imageattribution: "Sai Kiran Anagani"
-imageattributionlink: https://unsplash.com/@iamkiran
+image: "images/theplayground2.jpg"
+imageattribution: "Alexander O. Smith"
+imageattributionlink: https://aos11409.github.io/AboutAlexander/
 block_share_bottom: true
 ---
 
