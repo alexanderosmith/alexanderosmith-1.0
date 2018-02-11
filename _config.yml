@@ -65,7 +65,6 @@ gems:
 include:
   - _pages
 exclude:
-  - README.md
   - Gemfile
   - Gemfile.lock
   - _site
