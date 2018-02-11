@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Template - Curriculum Vitae"
-description: "Software Engineer for fun and profit"
+title: "Alexander O. Smith - Curriculum Vitae"
+description: "Economist and Information Scientist"
 permalink: /cv.html
 image: "images/sai-kiran-anagani-61187.jpg"
 imageattribution: "Sai Kiran Anagani"
