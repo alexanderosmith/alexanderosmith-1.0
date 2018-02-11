@@ -9,15 +9,9 @@ details:
 sections:
   - title: "EDUCATION"
     content:
-    - title: "iSchool, Syracuse University"
-      blurb: "Ph.D. Student Information Science & Technology, "
-      date: "2017-"
-    - title: "Andrew Young School of Policy Studies, Georgia State University"
-      blurb: M.A. Economics
-      date: "2017"
-    - title: "Richards College of Business, University of West Georgia"
-      blurb: "B.S. Economics"
-      date: "2013"
+    - title: "2017-Present, **Ph.D. Student Information Science & Technology**, iSchool, Syracuse University"
+    - title: "2017, **M.A. Economics, Andrew Young School of Policy Studies**, Georgia State University"
+    - title: "2013, **B.S. Economics, Richards College of Business**, University of West Georgia"
   - title: "EMPLOYMENT"
     content:
     - title: "8/2017 – Present:	Research Assistant, iSchool, Syracuse University, Syracuse, NY"
@@ -28,12 +22,12 @@ sections:
   - title: "SCHOLARSHIP"
     content:
     - title: "Posters and Presentations"
-    content:
-    - title: "Alexander O. Smith, \"Synonyms, Antonyms, and Connections Between,\" (2017) All iSchool Poster Session, Syracuse University, 1 December, Syracuse, NY."
-    - title: "Alexander O. Smith, \"Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,\" (2013) RCOB Big Night 13 March, Carrollton, GA."
-    - title: "Alexander O. Smith, \"Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,\" (2013) Academy of Economics and Finance Undergraduate Research Conference, 14-16 February, Mobile, AL.: date: 2016"
+      content:
+      - "Alexander O. Smith, \"Synonyms, Antonyms, and Connections Between,\" (2017) All iSchool Poster Session, Syracuse University, 1 December, Syracuse, NY."
+      - "Alexander O. Smith, \"Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,\" (2013) RCOB Big Night 13 March, Carrollton, GA."
+      - "Alexander O. Smith, \"Effects of Super PAC Spending On Polls: An Account of 3rd Party Campaign Financing,\" (2013) Academy of Economics and Finance Undergraduate Research Conference, 14-16 February, Mobile, AL.: date: 2016"
     - title: "Work in Progress"
-    content:
-    - title: "Bird, Bruce M., Sinkey, Michael J., Smith, Alexander O., Smith, William J. \"Should Benford’s Law Be Used to Examine Financial Returns? Evidence from CRSP. \""
-  - title: "References"
+      content:
+      - "Bird, Bruce M., Sinkey, Michael J., Smith, Alexander O., Smith, William J. \"Should Benford’s Law Be Used to Examine Financial Returns? Evidence from CRSP.\" "
+  - title: "REFERENCES"
     request: true
