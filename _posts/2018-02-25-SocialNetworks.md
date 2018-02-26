@@ -2,9 +2,9 @@
 layout: post
 title:  "Social & Information Networks"
 date:   2018-02-25 05:00:00 +0000
-image: "images/theplayground2.jpg"
-imageattribution: "Alexander O. Smith"
-imageattributionlink: https://aos11409.github.io/AboutAlexander/
+image: "images/arpanet.png"
+imageattribution: "The Computer History Museum"
+imageattributionlink: http://www.computerhistory.org
 tags:
   - Blog
   - Social Media Methods
