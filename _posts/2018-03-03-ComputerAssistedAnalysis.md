@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Social & Information Networks"
+title:  "Computer Assisted Analysis"
 date:   2018-02-25 05:00:00 +0000
 image: "images/theplayground2.jpg"
 imageattribution: "Alexander O. Smith"
