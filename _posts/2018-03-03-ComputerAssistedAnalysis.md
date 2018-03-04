@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Computer Assisted Analysis"
-date:   2018-02-25 05:00:00 +0000
+date:   2018-03-03 05:00:00 +0000
 image: "images/theplayground2.jpg"
 imageattribution: "Alexander O. Smith"
 imageattributionlink: https://aos11409.github.io/AboutAlexander/
