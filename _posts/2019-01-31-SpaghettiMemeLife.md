@@ -176,4 +176,4 @@ This is a pre-print copy of an article written for _The Ark_, a Syracuse, NY pub
 [^3]:	Milner, R.M. 2016. The World Made Meme: Public Conversations and Participatory Media. The MIT Press.
 [^4]:	Phillips, W. 2015. This Is Why We Can’t Have Nice Things : Mapping the Relationship Between Online Trolling and Mainstream Culture. The MIT Press.
 [^5]:	Phillips, W. and Milner, R.M. 2017. The Ambivalent Internet: Mischief, Oddity, and Antagonism Online. Polity Press.
-[^6]:	2019. Six Degrees of Kevin Bacon. Wikipedia.
+[^6]:	Six Degrees of Kevin Bacon. Wikipedia.
