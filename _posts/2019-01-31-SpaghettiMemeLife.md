@@ -66,7 +66,7 @@ know Kung Fu.
 
 You didn’t even know until about 10 minutes ago you were reading a paper about spaghetti. Did
 you forget? This is about spaghetti. I swear. No, really. Okay, fine. FINE! Spaghetti. So, memes:
-they’re certainly about spaghetti. Just like how Hollywood is totally centered around Kevin Bacon.
+they’re certainly about spaghetti. Just like how Hollywood is totally centered around Kevin Bacon.[^6]
 Don’t believe that’s a thing? Google “Bacon Numbers” and be prepared that some dude named Brian
 Turtle thought Kevin Bacon was the center of the universe. But Brian’s crazy. Bacon is definitely not
 the center of the universe. Spaghetti is. It wiggles its little buttery tendrils into everything. Because of
@@ -153,7 +153,7 @@ then. Maybe, social media just made them more clear to us in how they influence 
 Regardless, there are signals in our lives which resonate with us, what bounces around our friend
 groups. These things are signs. We use them to claim we have made sense of things in a common way
 among our small peer group. Yet, outside of our peer group they often don’t make sense. In a book by
-Whitney Phillips and Ryan Milner wrote in The Ambivalent Internet, “one person’s weird is another
+Whitney Phillips [^4] and Ryan Milner [^3] wrote in The Ambivalent Internet [^5], “one person’s weird is another
 person’s Tuesday.” This is true! So my Tuesday is spaghetti and I don’t think I asked for that, but it’s
 spaghetti-Tuesday everyday. That probably says something about me that I don’t understand, but I want
 to. Maybe you have real reasons not to share these kinds of things with people. Maybe you are afraid
@@ -170,9 +170,9 @@ I told you this was about spaghetti! It’s always about spaghetti!
 This is a pre-print copy of an article written for _The Ark_, a Syracuse, NY publication and community art space. The Ark provides services for music performance as well as creative arts space, promoting community engagement and a creative space.
 
 # SUGGESTED AFFILIATED READING
-[1]	Cannizzaro, S., s. cannizzaro@lincoln.ac. u. 2016. Internet memes as internet signs: A semiotic view of digital culture. Internetimeemid kui internetimärgid: semiootiline pilk digitaalkultuurile. 44, 4 (Oct. 2016), 562–586. DOI:https://doi.org/10.12697/SSS.2016.44.4.05.
-[2]	Dawkins, R. 2016. Memes: The New Replicators. The Selfish Gene: 40th Anniversary Edition. Oxford University Press. 199–210.
-[3]	Milner, R.M. 2016. The World Made Meme: Public Conversations and Participatory Media. The MIT Press.
-[4]	Phillips, W. 2015. This Is Why We Can’t Have Nice Things : Mapping the Relationship Between Online Trolling and Mainstream Culture. The MIT Press.
-[5]	Phillips, W. and Milner, R.M. 2017. The Ambivalent Internet: Mischief, Oddity, and Antagonism Online. Polity Press.
-[6]	2019. Six Degrees of Kevin Bacon. Wikipedia.
+[1]:	Cannizzaro, S., s. cannizzaro@lincoln.ac. u. 2016. Internet memes as internet signs: A semiotic view of digital culture. Internetimeemid kui internetimärgid: semiootiline pilk digitaalkultuurile. 44, 4 (Oct. 2016), 562–586. DOI:https://doi.org/10.12697/SSS.2016.44.4.05.
+[2]:	Dawkins, R. 2016. Memes: The New Replicators. The Selfish Gene: 40th Anniversary Edition. Oxford University Press. 199–210.
+[^3]:	Milner, R.M. 2016. The World Made Meme: Public Conversations and Participatory Media. The MIT Press.
+[^4]:	Phillips, W. 2015. This Is Why We Can’t Have Nice Things : Mapping the Relationship Between Online Trolling and Mainstream Culture. The MIT Press.
+[^5]:	Phillips, W. and Milner, R.M. 2017. The Ambivalent Internet: Mischief, Oddity, and Antagonism Online. Polity Press.
+[^6]:	2019. Six Degrees of Kevin Bacon. Wikipedia.
