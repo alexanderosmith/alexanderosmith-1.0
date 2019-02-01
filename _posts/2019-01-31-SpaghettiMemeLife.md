@@ -11,6 +11,7 @@ tags:
   - Memes
   - Published Work
 ---
+## Spaghetti Meme Life
 It occurred to me one day that memes [^1] [^2] might revolve around spaghetti. It’s likely they don’t, but
 it still seems that way. Certainly for those of us that follow absurdist or esoteric Facebook pages, the
 dankmemes subreddit, or elsewhere to get our daily dose of escapism or demand a feeling of solidarity
@@ -169,7 +170,7 @@ I told you this was about spaghetti! It’s always about spaghetti!
 ### RIGHTS NOTICE:
 This is a pre-print copy of an article written for _The Ark_, a Syracuse, NY publication and community art space. The Ark provides services for music performance as well as creative arts space, promoting community engagement and a creative space.
 
-# SUGGESTED AFFILIATED READING
+## SUGGESTED AFFILIATED READING
 [^1]:	Cannizzaro, S. 2016. Internet memes as internet signs: A semiotic view of digital culture. Internetimeemid kui internetimärgid: semiootiline pilk digitaalkultuurile. 44, 4 (Oct. 2016), 562–586. DOI:https://doi.org/10.12697/SSS.2016.44.4.05.
 [^2]:	Dawkins, R. 2016. Memes: The New Replicators. The Selfish Gene: 40th Anniversary Edition. Oxford University Press. 199–210.
 [^3]:	Milner, R.M. 2016. The World Made Meme: Public Conversations and Participatory Media. The MIT Press.
