@@ -1,7 +1,7 @@
 # Site
 title: Alexander O. Smith
 description: PhD Student, iSchool, Syracuse University
-url: https://aos11409.github.io
+url: https://alexanderosmith.github.io
 logo: aos.png                                         # Site logo
 disqus_shortname: https-aos11409-github-io
 locale: en_US
@@ -34,7 +34,7 @@ google-analytics: UA-113001384-1
 #google.plus:        username
 #twitter:            username
 facebook:           aos11409
-github:             aos11409
+github:             alexanderosmith
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           aos11409
 #xing:              username
