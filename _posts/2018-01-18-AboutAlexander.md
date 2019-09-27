@@ -11,7 +11,7 @@ tags:
 
 # Current Research
 
-Alexander is a second year PhD student of Information Science and Technology in the iSchool. He completed a BS in Economics at University of West Georgia in 2013. In 2017, he completed a thesis track MA in Economics at Georgia State under Dr. Paula Stephan while also completing three years of mathematics courses.
+Alexander is a third year PhD student of Information Science and Technology in the iSchool. He completed a BS in Economics at University of West Georgia in 2013. In 2017, he completed a thesis track MA in Economics at Georgia State under Dr. Paula Stephan while also completing three years of mathematics courses.
 
 Presently he his working under Dr. Jeff Hemsley, and contributing to the STACKS project with BITS Lab. His primary GA work involves co-managing the Mongo database for Illuminating and the affiliated Linux servers and scripts.
 
